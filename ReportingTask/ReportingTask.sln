@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportingTask", "ReportingTask\ReportingTask.csproj", "{DCA5CBB2-F689-4963-BC6B-04992027ABD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests.ReportingTask", "Tests.ReportingTask", "{B98AFE0D-D7F6-4B87-AF5B-E967765E337B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelExport.Test", "ExcelExport.Test\ExcelExport.Test.csproj", "{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA5CBB2-F689-4963-BC6B-04992027ABD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA5CBB2-F689-4963-BC6B-04992027ABD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA5CBB2-F689-4963-BC6B-04992027ABD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA5CBB2-F689-4963-BC6B-04992027ABD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC50AD1E-C0E7-4174-9EEE-3A03CC5606A0} = {B98AFE0D-D7F6-4B87-AF5B-E967765E337B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB296E2-60B7-4AF3-A137-66736179753E}
+	EndGlobalSection
+EndGlobal

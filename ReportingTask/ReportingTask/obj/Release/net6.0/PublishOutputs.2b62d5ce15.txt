@@ -1,0 +1,15 @@
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\ReportingTask.exe
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\appsettings.json
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\ReportingTask.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\ReportingTask.deps.json
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\ReportingTask.runtimeconfig.json
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\ReportingTask.pdb
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\EPPlusFree.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\System.Xml.XPath.XmlDocument.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Task\ReportingTask\ReportingTask\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

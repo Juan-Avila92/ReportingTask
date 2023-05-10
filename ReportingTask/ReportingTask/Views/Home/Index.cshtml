@@ -1,0 +1,13 @@
+﻿<div class="text-center">
+    <h1 class="display-4" style="font-weight: bold">Welcome</h1>
+    <form method="post" action="/api/excel/download" enctype="multipart/form-data">
+        <div class="col">
+            <div class="row-cols-4 mb-3">
+                <input type="file" name="file" accept="application/JSON" placeholder="Select File" required>
+            </div>
+            <div class="row-cols-4">
+                <button type="submit">Export Excel</button>
+            </div>
+        </div>
+    </form>
+</div>
