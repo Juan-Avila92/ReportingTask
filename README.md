@@ -1,5 +1,6 @@
 # ReportingTask
-#Instructions (Azure Instance: https://reportingtask20230510154239.azurewebsites.net/)
+#Instructions 
+(Azure Instance: https://reportingtask20230510154239.azurewebsites.net/)
 - Clone master branch
 - Open "ReportingTask" solution
 - You would need to install two packages from nuget:
